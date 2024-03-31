@@ -18,3 +18,4 @@ Feature: Login Page
       | mailtest@gmail.com    | 12345678 |
       | mailtest2@gmail.com   | 56789155 |
       | testmail@gmail.com    | abcdefg  |
+      | examtest@gmail.com    | ABCDEFG  |
